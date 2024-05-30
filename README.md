@@ -22,13 +22,18 @@ cols=<number_of_columns>
 ## Installation
 
 1. Clone the repository or download the script.
-   ```
+   ```git clone https://github.com/pimanzi/SparseMatric_App.git
    ```
 3. Ensure Python is installed on your system. python3 is recommended
 
-## Running the Application
+## Running the Application  
 
-Run the application by executing the script:
+1. Navigate to the project folder
+```
+cd SparseMatric_App
+
+```
+2. Run the application by executing the script:
 
 ```sh
 python sparse_matrix.py
